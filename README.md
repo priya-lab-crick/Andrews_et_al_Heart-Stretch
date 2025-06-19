@@ -8,13 +8,13 @@ The following code is provided:
 
 \\ Data processing (R) \\
 
-'Ventricle shape quantification.R'
-'Ventricle superimposition and heatmaps.R'
-'Zebrafish clonal analysis.R'
+'Ventricle shape quantification.R' | 
+'Ventricle superimposition and heatmaps.R' | 
+'Zebrafish clonal analysis.R' | 
 
 \\ 3D Vertex Model \\
 
-__init__.py
-mesh.py
-simulation.py
-tissue.py
+__init__.py | 
+mesh.py | 
+simulation.py | 
+tissue.py | 
