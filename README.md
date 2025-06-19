@@ -2,11 +2,11 @@ This is the code-base related to the paper 'Mechanochemical coupling of cell sha
 
 The following code is provided:
 
-\\ Image Analysis \\
+\\ FIJI Macros for image analysis \\
 
 'Junctional signal quantification.ijm'
 
-\\ Data processing (R) \\
+\\ R Scripts for data analysis \\
 
 'Ventricle shape quantification.R' | 
 'Ventricle superimposition and heatmaps.R' | 
