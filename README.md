@@ -14,7 +14,7 @@ The following code is provided:
 
 -- 3D Vertex Model --
 
-__init__.py | 
-mesh.py | 
-simulation.py | 
-tissue.py 
+'__init__.py' | 
+'mesh.py' | 
+'simulation.py' | 
+'tissue.py' 
